@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      { "text": "Hyper Text Markup Language", "isCorrect": true },
+      { "text": "Home Tool Markup Language", "isCorrect": false },
+      { "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+      { "text": "Hyper Text Machine Language", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is used to style a webpage?",
+    "options": [
+      { "text": "HTML", "isCorrect": false },
+      { "text": "CSS", "isCorrect": true },
+      { "text": "JavaScript", "isCorrect": false },
+      { "text": "PHP", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does the <title> tag do in HTML?",
+    "options": [
+      { "text": "Defines the title of the webpage", "isCorrect": true },
+      { "text": "Defines the body of the webpage", "isCorrect": false },
+      { "text": "Links to an external script", "isCorrect": false },
+      { "text": "Adds an image to the page", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which HTML element is used to display an image?",
+    "options": [
+      { "text": "<img>", "isCorrect": true },
+      { "text": "<image>", "isCorrect": false },
+      { "text": "<pic>", "isCorrect": false },
+      { "text": "<imgsrc>", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In CSS, how do you select an element with the class 'container'?",
+    "options": [
+      { "text": ".container", "isCorrect": true },
+      { "text": "#container", "isCorrect": false },
+      { "text": "container", "isCorrect": false },
+      { "text": "*container", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of these is used to add a comment in JavaScript?",
+    "options": [
+      { "text": "// This is a comment", "isCorrect": true },
+      { "text": "<!-- This is a comment -->", "isCorrect": false },
+      { "text": "/* This is a comment */", "isCorrect": false },
+      { "text": "%% This is a comment %%", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the 'div' element in HTML?",
+    "options": [
+      { "text": "To divide the webpage into sections", "isCorrect": true },
+      { "text": "To add an image", "isCorrect": false },
+      { "text": "To create a button", "isCorrect": false },
+      { "text": "To style text", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which property is used to change the font size in CSS?",
+    "options": [
+      { "text": "font-size", "isCorrect": true },
+      { "text": "text-size", "isCorrect": false },
+      { "text": "font-style", "isCorrect": false },
+      { "text": "text-font", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a correct way to create a function in JavaScript?",
+    "options": [
+      { "text": "function myFunction() {}", "isCorrect": true },
+      { "text": "function = myFunction() {}", "isCorrect": false },
+      { "text": "myFunction() function {}", "isCorrect": false },
+      { "text": "create function myFunction() {}", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Computer Style Sheets", "isCorrect": false },
+      { "text": "Creative Style Sheets", "isCorrect": false },
+      { "text": "Cascading Script Sheets", "isCorrect": false }
+    ]
+  }
+]
